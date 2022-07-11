@@ -13,4 +13,20 @@ depos de criado o projeto é necessario baixar as dependecias para isso vai na p
 
 para iniciar o servidor - yarn dev
  http://localhost:3000
- 
+
+
+Criar projeto spring
+====================
+https://start.spring.io/
+
+dependencias - web - jpa - hs - security
+
+Salvar no git hub
+-----------------
+git init
+git add .
+git commit -m "Project created"
+git branch -M main
+git remote add origin git@github.com:1antonio2aguiar/dsmeta.git
+git push -u origin main
+
