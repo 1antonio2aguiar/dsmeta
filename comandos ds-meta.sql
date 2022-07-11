@@ -30,3 +30,7 @@ git branch -M main
 git remote add origin git@github.com:1antonio2aguiar/dsmeta.git
 git push -u origin main
 
+trabalhar com datas
+-------------------
+yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2
+
