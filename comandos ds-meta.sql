@@ -34,3 +34,7 @@ trabalhar com datas
 -------------------
 yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2
 
+
+Configurando CORS backend, tem que ser feito porque o back vai ficar em um local diferente do front.
+
+foi criada a classe SecurityConfig em com.devsuperior.dsmeta.dsmeta.config
